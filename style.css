@@ -1,0 +1,22 @@
+
+
+h1{
+    color: brown;
+    text-align: center;
+}
+div{
+    background-color: antiquewhite;
+}
+
+p{
+    border: 10px solid yellowgreen;
+    margin: 10px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+img{
+    align-items: center;
+    border: 5px dotted red;
+    border-radius: 10px;
+}
